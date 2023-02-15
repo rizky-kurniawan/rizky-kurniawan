@@ -5,3 +5,5 @@
 - 🌱 I’m currently learning PHP, Go, JavaScript
 - 💬 Ask me about everything
 - 📫 How to reach me: workspace.rizkykurniawan@gmail.com
+
+Thanks,
